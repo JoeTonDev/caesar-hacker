@@ -1,1 +1,1 @@
-A Python script that can hack encrypted messages from Caesar cipher.
+A Python script that can hack encrypted messages with the Caesar cipher.
